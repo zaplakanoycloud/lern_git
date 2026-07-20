@@ -1,1 +1,1 @@
-# Lern Git
+Hello, GitHub
